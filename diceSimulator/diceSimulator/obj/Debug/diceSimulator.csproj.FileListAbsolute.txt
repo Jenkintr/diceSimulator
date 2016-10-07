@@ -1,0 +1,9 @@
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\diceSimulator\diceSimulator\bin\Debug\diceSimulator.exe.config
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\diceSimulator\diceSimulator\bin\Debug\diceSimulator.exe
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\diceSimulator\diceSimulator\bin\Debug\diceSimulator.pdb
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\diceSimulator\diceSimulator\obj\Debug\diceSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\diceSimulator\diceSimulator\obj\Debug\diceSimulator.dieSimulator.resources
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\diceSimulator\diceSimulator\obj\Debug\diceSimulator.Properties.Resources.resources
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\diceSimulator\diceSimulator\obj\Debug\diceSimulator.csproj.GenerateResource.Cache
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\diceSimulator\diceSimulator\obj\Debug\diceSimulator.exe
+C:\Users\Silverglow\Documents\Visual Studio 2015\Projects\C#\diceSimulator\diceSimulator\obj\Debug\diceSimulator.pdb
